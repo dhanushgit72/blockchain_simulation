@@ -48,7 +48,7 @@ Setup and Execution
 
 1. Clone the Repository
 
-git clone https://github.com/dhanushgit72/blockchain-simulation.git
+git clone [https://github.com/dhanushgit72/blockchain-simulation.git](https://github.com/dhanushgit72/blockchain_simulation)
 cd blockchain-simulation
 
 2. Install Dependencies
