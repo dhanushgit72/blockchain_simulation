@@ -48,7 +48,7 @@ Setup and Execution
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/blockchain-simulation.git
+git clone https://github.com/dhanushgit72/blockchain-simulation.git
 cd blockchain-simulation
 
 2. Install Dependencies
@@ -83,15 +83,5 @@ docker build -t blockchain-simulation .
 
 docker run --rm blockchain-simulation
 
-Submission
 
-Ensure your GitHub repository contains:
-
-This README file.
-
-Well-commented and organized code.
-
-Contact
-
-For queries, reach out to your-email@example.com.
 
